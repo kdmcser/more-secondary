@@ -14,9 +14,10 @@ You can choose from the following configurations:
 
 ## Screenshots
 
+![screen3](screenshots/screen3.png)
 ![screen1](screenshots/screen1.png)  
 ![screen2](screenshots/screen2.png)  
-![screen3](screenshots/screen3.png)
+
 
 
 ## Compatibility
